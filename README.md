@@ -1,2 +1,16 @@
 # Data-Structure-and-Algorithms
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+
+# Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
