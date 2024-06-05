@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 # Binary Search
 |  |
 | ------- |
@@ -22,3 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0020-valid-parentheses) |
+# Sorting
+|  |
+| ------- |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
