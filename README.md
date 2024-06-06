@@ -27,3 +27,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+# Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
+# Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
