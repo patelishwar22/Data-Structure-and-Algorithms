@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2058-concatenation-of-array](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/2058-concatenation-of-array) |
 # Binary Search
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
+| [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 # Recursion
 |  |
 | ------- |
@@ -49,4 +51,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/3412-permutation-difference-between-two-strings) |
+# Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
