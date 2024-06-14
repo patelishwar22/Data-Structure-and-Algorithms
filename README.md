@@ -63,7 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 # String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+# Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
