@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2058-concatenation-of-array](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/2058-concatenation-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/2876-number-of-employees-who-met-the-target) |
 # Binary Search
 |  |
 | ------- |
