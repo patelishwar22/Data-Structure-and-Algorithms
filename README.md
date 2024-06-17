@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 # Recursion
