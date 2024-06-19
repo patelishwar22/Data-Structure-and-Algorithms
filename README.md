@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/3412-permutation-difference-between-two-strings) |
 # Counting
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 # Greedy
 |  |
 | ------- |
