@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0010-regular-expression-matching) |
 # Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
@@ -77,3 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0010-regular-expression-matching) |
