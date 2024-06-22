@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [1580-shuffle-the-array](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0782-jewels-and-stones](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/3412-permutation-difference-between-two-strings) |
@@ -83,3 +85,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0010-regular-expression-matching) |
+# Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
+# Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
