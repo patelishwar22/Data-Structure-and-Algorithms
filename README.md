@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
