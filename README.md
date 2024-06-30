@@ -101,3 +101,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [1791-richest-customer-wealth](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1791-richest-customer-wealth) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
