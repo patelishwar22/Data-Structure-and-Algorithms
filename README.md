@@ -116,8 +116,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
