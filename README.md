@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0058-length-of-last-word) |
 ## Trie
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
