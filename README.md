@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
@@ -143,4 +144,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ishupatel07/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
